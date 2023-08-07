@@ -19,8 +19,6 @@ try {
 }
 };
 
-// Other async functions continue in a similar manner...
-
 export {
 getThoughts,
 getSingleThought,
